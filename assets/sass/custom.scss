@@ -1,0 +1,29 @@
+#header {
+  padding: 0;
+  background-color: #0A7821;
+  background-size: auto 11em;
+  background-image: url('logo-accb.png');
+}
+
+#header > h1 {
+  padding: 2em 0;
+  font-size: 2em;
+  color: #0A2F11;
+  line-height: auto;
+}
+
+#nav {
+  background-color: #0A2F11;
+}
+
+#nav > ul > li.current::before {
+  background-color: #0A7821;
+}
+
+#nav::after {
+  background-color: #0A7821;
+}
+
+h3 {
+  margin-bottom: 0;
+}
