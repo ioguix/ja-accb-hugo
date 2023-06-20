@@ -1,0 +1,10 @@
+baseURL: https://blog.ioguix.net/ja-accb-hugo/
+languageCode: 'fr-fr'
+title: 'Capoeira Nantes Jacobina Arte'
+theme: 'arcana'
+#theme: 'hugo-hero-theme'
+
+# SectionPagesMenu: "main"
+# omit_header_text: "true"
+# Paginate: 10
+
